@@ -1,8 +1,13 @@
 # ClipboardManager
 A simple, lightweight, polling based clipboard manager for macOS written in Python.
 
+> ⚠️ **Note:** This app currently supports text data only.
+
 ## Screenshot
 <img width="434" height="242" alt="Screenshot couldn’t be loaded!" src="https://github.com/user-attachments/assets/3cb1a163-7772-45ce-a67b-d24bf399f4d7" />
+
+## Download
+Download the latest `.dmg` from the [Releases](https://github.com/cj-praveen/ClipboardManager/releases) page.
 
 ### Build from Source
 ```
